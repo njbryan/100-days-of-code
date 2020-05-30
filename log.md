@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 2: March 29, 2020
+**Today's Progress**
+I tapped out and read the solution to the bonus question.
+
+**Thoughts**
+I'm eager to get through the Chris Pine book because I clearly need more practice using some of the Ruby methods to solve more complex data structure manipulations.
+
 ### Day 1: March 28, 2020
 **Today's Progress**
 Completed all but the last exercise in RB100. 
