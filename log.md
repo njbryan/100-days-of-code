@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 3: March 30, 2020
+Finished first two chapters of Learn to Code by Chris Pine's Learn to Code.
+
 ### Day 2: March 29, 2020
 **Today's Progress**
 I tapped out and read the solution to the bonus question.
